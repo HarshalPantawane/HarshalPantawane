@@ -1,4 +1,3 @@
-# 🧑‍💻 Harshal Pantawane
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=HARSHAL%20PANTAWANE&fontSize=55&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20ENGINEER%20•%20AWS%20•%20KUBERNETES%20•%20TERRAFORM&descAlignY=60&descSize=20"/>
