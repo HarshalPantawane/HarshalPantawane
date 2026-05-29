@@ -55,20 +55,7 @@ Focus:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-# ☁️ Cloud & DevOps Skills
 
-<div align="center">
-
-| Cloud | DevOps | Monitoring | Scripting |
-|---|---|---|---|
-| AWS | Jenkins | Prometheus | Python |
-| Azure | Docker | Grafana | Bash |
-| GCP | Kubernetes | CloudWatch | Shell |
-| VPC | Terraform | Logging | Linux |
-
-</div>
-
----
 # 📂 Featured Projects
 
 ## 🔵🟢 Blue-Green Deployment Strategy
